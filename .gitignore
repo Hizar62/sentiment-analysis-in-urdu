@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!Sentiment-analysis.ipynb
+!test.xlsx
+!train.xlsx
+!valid.xlsx
+
+# Ignore folders
+/*/
